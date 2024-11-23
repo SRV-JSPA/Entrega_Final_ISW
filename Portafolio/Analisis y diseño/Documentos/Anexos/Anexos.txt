@@ -1,0 +1,7 @@
+- El archivo "Plan de pruebas-2024" se utilizó en la etapa en la que se estuvo 
+trabjando el sprint 5, donde empezamos a trabajar las pruebas con su 
+respectiva estructura.
+
+- El archivo de "LessonsHealthcare" fue utilizado para elaborar la 
+"Tarea 2 - Estudio de casos", el cuál fue de gran ayuda para llevarnos
+una idea de la estructura que un caso debe de llevar.

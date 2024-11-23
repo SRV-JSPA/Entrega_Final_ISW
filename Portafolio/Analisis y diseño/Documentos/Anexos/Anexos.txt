@@ -1,3 +1,7 @@
+- El archivo "CHC Creative Brief" fue utilizado para el "Brief Proyecto" donde 
+utilizamos las estructura de este mismo para nosotros organizar la información 
+del proyecto en la estructura del archivo dado.
+
 - El video "LEGO The Building blocks with Architecture" fue utilizado para la 
 "Tarea Investigativa 4 - UX" donde nosotros vimos el video detenidamente para
 comparar el User Experience (UX) y HCI (Human Computer Interaction).
